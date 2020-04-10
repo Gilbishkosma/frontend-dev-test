@@ -8,6 +8,7 @@ body{
 
 body{
 	background-image: linear-gradient(to bottom, rgb(55, 55, 55) 0%, rgb(8, 8, 8) 80%, rgb(0, 0, 0) 100%);
+	font-family: sans-serif;
 }
 
 #root{

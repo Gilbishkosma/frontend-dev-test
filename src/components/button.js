@@ -3,8 +3,8 @@ import '../styles/button.css'
 
 
 
-export default ({title}) => {
+export default ({title,style,onClick}) => {
 	return(
-		<button className="button"><b>{title}</b></button>
+		<button className="button" onClick={onClick} style={{...style}}><b>{title}</b></button>
 		)
 }
