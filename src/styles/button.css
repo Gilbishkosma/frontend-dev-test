@@ -1,0 +1,7 @@
+.button{
+	padding:15px;
+	border-radius: 10px;
+	background-image: linear-gradient(to bottom, rgb(212, 237, 231) 0%, rgb(187, 227, 218) 100%);
+	width:100px;
+	margin:10px;
+}
